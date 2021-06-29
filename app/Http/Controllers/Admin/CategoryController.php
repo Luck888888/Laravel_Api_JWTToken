@@ -9,7 +9,6 @@ use App\Models\Category;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 
-
 class CategoryController extends Controller
 {
 
